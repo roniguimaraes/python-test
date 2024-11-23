@@ -2,10 +2,10 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      Onileda
+# Author:      Roni
 #
 # Created:     23/11/2024
-# Copyright:   (c) Onileda 2024
+# Copyright:   (c) Roni 2024
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
