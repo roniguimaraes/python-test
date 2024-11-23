@@ -37,6 +37,8 @@ About string manipulation
 I might have seen it at some point
 but I dont remember how to find a str length
 or to convert it to upper or lowercase
+I could google it
+but since the idea is to test my knowledge...
 """
 
 if __name__ == '__main__':
